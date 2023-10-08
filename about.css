@@ -1,0 +1,204 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-color: white;
+}
+.about-head{
+    background-color: #303531;
+    height: fit-content;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.about-heroes{
+    height: fit-content;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    width: 85vw;
+    margin: 0 auto;
+    text-align: center;
+}
+.about-hero{
+    margin: auto 0;
+}
+.about-hero h2{
+    font-size: 60px;
+    color: #efebee;
+    text-align: center;
+    width: 29vw;  
+}
+
+.about-container{
+    height: fit-content;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.abouts{
+    height: fit-content;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    width: 85vw;
+    margin: 0 auto;
+}
+.about{
+    margin: auto 0;
+}
+.about-text{
+    text-align: left;
+}
+.about h2{
+    font-size: 40px;
+}
+.about p{
+    line-height: 1.5rem;
+    margin-top: 35px;
+}
+.about button{
+    padding: 10px 45px;
+    margin-top: 40px;
+    cursor: pointer;
+    background-color: #b5b2b5;
+    border: 2px solid #b5b2b5;
+    transition: 0.5s;
+}
+.about button:hover{
+    background-color: #000;
+    border: 2px solid #000;
+    color: white;
+}
+/*arrival*/
+.arrival-container{
+    height: fit-content;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.arrival-head{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.arrival-head h2{
+    font-size: 35px;
+}
+.arrivals{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    height: fit-content;
+    width: 90vw;
+    margin: 0 auto;
+}
+.arrival{
+    width: 20vw;
+    text-align: center;
+    border: 1px solid #000;
+    box-shadow: 0px 0px 2px 2px #0000003d;
+    transition: 0.5s;
+    cursor: pointer;
+    margin: auto;
+}
+.arrival:hover{
+    transform: translateX(-20px);
+}
+.item-text{
+    display: block;
+    margin-block: 0.5rem;
+}
+.item-text h4{
+    color: red;
+}
+.arrival-container button{
+    padding: 10px 45px;
+    margin-top: 40px;
+    cursor: pointer;
+    background-color: #b5b2b5;
+    border: 2px solid #b5b2b5;
+    transition: 0.5s;
+}
+.arrival-container button:hover{
+    background-color: #000;
+    border: 2px solid #000;
+    color: white;
+}
+
+@media screen  and (max-width:480px) {
+    .about-heroes{
+        grid-template-columns: 2fr;
+    }
+    .about-hero h2{
+        width: 80vw;
+        font-size: 30px;
+    }
+    .abouts{
+        grid-template-columns:2fr ;
+        text-align: center;
+    }
+    .about h2{
+        font-size:28px ;
+    }
+    .about p{
+        text-align: left;
+    }
+    .about-text {
+        text-align: center;
+    }
+
+    .arrivals{
+        grid-template-columns: 2fr;
+        row-gap: 2rem;
+    }
+    .arrival{
+        width: 80vw;
+    }
+}
+
+
+@media  screen and (min-width:481px) and (max-width:768px) {
+    .about-hero h2{
+        width: 40vw;
+        font-size: 30px;
+    }
+    .abouts{
+        width: 90vw;
+    }
+    .arrivals{
+        width: 95vw;
+        margin: 0 auto;
+        gap: 1rem;
+    }
+    .arrival{
+        width: 30vw;
+    }
+    .arrival:last-child{
+        display: none;
+    }
+}
+@media  screen and (min-width:769px) and (max-width:1024px) {
+    .about-hero h2{
+        width: 40vw;
+        font-size: 30px;
+    }
+    .abouts{
+        width: 90vw;
+    }
+    .arrivals{
+        width: 95vw;
+        margin: 0 auto;
+        gap: 1rem;
+    }
+    .arrival{
+        width: 30vw;
+    }
+    .arrival:last-child{
+        display: none;
+    }
+}
+
+@media  screen and (min-width:1025px) and (max-width:1280px) {
+    .about-hero h2{
+        width: 40vw;
+        font-size: 50px;
+    }
+}

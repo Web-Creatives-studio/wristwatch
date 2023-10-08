@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "img":"./img/product-3.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    },
+    {
+        "id":2,
+        "img":"./img/product-9.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    },
+    {
+        "id":3,
+        "img":"./img/product-3.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    },
+    {
+        "id":4,
+        "img":"./img/product-3.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    },
+    {
+        "id":5,
+        "img":"./img/product-3.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    },
+    {
+        "id":6,
+        "img":"./img/product-3.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    },
+    {
+        "id":7,
+        "img":"./img/product-3.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    },
+    {
+        "id":8,
+        "img":"./img/product-3.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    },
+    {
+        "id":9,
+        "img":"./img/product-3.png",
+        "name": "TISSOT T-RACE CYCLING VUELTA 2023",
+        "sub":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quaerat quibusdam est adipisci quo dolores, natus error, optio modi ex labore iusto non repellat hic praesentium dolore voluptates sit quae. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "img1":"./img/product-3.png",
+        "img2":"./img/product-3.png",
+        "img3":"./img/product-3.png",
+        "cart":"Add to Cart",
+        "buy":"Buy Now"
+    }
+  ]

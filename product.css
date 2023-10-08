@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.product-container{
+    height: fit-content;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.product-head{
+    width: fit-content;
+}
+.product-head ul{
+    margin-left: 40px;
+}
+.product-head ul li{
+    display: inline-block;
+    margin-inline: 0.5rem;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.product-head ul li p{
+    font-weight: 600;
+    cursor: pointer;
+}
+.product-head ul li p:hover{
+    text-decoration: underline;
+}
+.products{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    height: fit-content;
+    width: 85vw;
+    margin: 0 auto;
+}
+.product{
+    margin: auto 0;
+}
+.product-text h2{
+    width: 25vw;
+}
+.product-text .sub{
+    color: #2d2121;
+}
+.product-text .intro{
+    margin-top: 30px;
+    width: 30vw;
+}
+.choose-img {
+    width: fit-content;
+    cursor: pointer;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: 0.5s;
+}
+.choose-img .active, .choose-img img:hover{
+    border-bottom: 2px solid #000;
+}
+.control{
+    display: flex;
+    justify-content: space-around;
+    width: 33vw;
+    align-items: center;
+    margin-top: 10px;
+}
+.control button{
+    padding: 10px 30px;
+    background-color: #000;
+    color: white;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+.control button:first-child{
+    padding: 10px 30px;
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
